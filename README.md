@@ -1,10 +1,6 @@
-# A Blank PhoneGap App
+# Encuestas DrAtl App
 
 ## Usage
-
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
 
 ### Desktop
 
